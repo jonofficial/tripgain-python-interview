@@ -67,7 +67,7 @@ def extract_from_row(row):
     }
 
 def run(playwright):
-    origin_city = "Ban"
+    origin_city = "Bangalore"
     destination_city = "Delhi"
 
     browser = playwright.chromium.launch(headless=False)
