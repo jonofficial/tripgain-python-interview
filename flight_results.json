@@ -1,0 +1,130 @@
+{
+  "searchdatetime": "2025-11-08T06:44:29Z",
+  "search": {
+    "origin": "Ban",
+    "destination": "Delhi",
+    "journey_date": "22-11-2025"
+  },
+  "results": [
+    {
+      "airline": "Air India",
+      "flight_number": "AI-428",
+      "departure_time": "14:35",
+      "arrival_time": "17:30",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2818",
+      "departure_time": "20:00",
+      "arrival_time": "22:55",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2814",
+      "departure_time": "22:00",
+      "arrival_time": "00:55",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2511",
+      "departure_time": "15:00",
+      "arrival_time": "18:00",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2665",
+      "departure_time": "19:30",
+      "arrival_time": "22:30",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2488",
+      "departure_time": "22:25",
+      "arrival_time": "01:25",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2418",
+      "departure_time": "16:35",
+      "arrival_time": "19:40",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2661",
+      "departure_time": "21:00",
+      "arrival_time": "00:05",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI-2802",
+      "departure_time": "19:00",
+      "arrival_time": "22:10",
+      "price": "6995.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 843",
+      "departure_time": "15:30",
+      "arrival_time": "18:30",
+      "price": "7594.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6725",
+      "departure_time": "16:50",
+      "arrival_time": "19:45",
+      "price": "7594.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6034",
+      "departure_time": "18:00",
+      "arrival_time": "20:55",
+      "price": "7594.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 735",
+      "departure_time": "19:15",
+      "arrival_time": "22:05",
+      "price": "7594.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6788",
+      "departure_time": "22:05",
+      "arrival_time": "01:00",
+      "price": "7594.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6813",
+      "departure_time": "23:30",
+      "arrival_time": "02:25",
+      "price": "7594.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 807,5164",
+      "departure_time": "16:45",
+      "arrival_time": "21:45",
+      "price": "7645.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 638,2256",
+      "departure_time": "19:00",
+      "arrival_time": "23:50",
+      "price": "7645.00"
+    }
+  ],
+  "extracted_at": "2025-11-08T12:15:02.608911"
+}
